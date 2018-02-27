@@ -67,3 +67,7 @@ https://docs.google.com/document/d/1v8fTgutyJ3X5i3gW9FrRlJo9t8X9hUtTwabZx4CYhrE/
 ```
 が挙げられる
 音声のUIというのはまだ発展途上のためそこらへんを注意して実施を行う、
+
+
+## 感想
+ハンズオンにでて家のgoogleHomeにビットコインの値段きいたら普通に帰ってきたので不思議な感じがしました。
